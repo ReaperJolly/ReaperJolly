@@ -14,9 +14,9 @@ My goal is to learn programming and upgrade personal skills.
 
 We can discuss everything from cs to sports to even politics :grin: but only while cooking and drinking good beer. :wink:
 
-Feel free to contact me on my FB or mail: 
+Feel free to contact me on my FB 
 
-<a href="https://www.facebook.com/kivimandarina.mangoananas</a>
+www.facebook.com/kivimandarina.mangoananas
 
 
 Open for any suggestions and ready to learn and update current progress.
