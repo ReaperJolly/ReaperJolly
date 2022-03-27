@@ -16,6 +16,8 @@ We can discuss everything from cs to sports to even politics :grin: but only whi
 
 Feel free to contact me on my FB or mail: 
 
+<a href="https://www.facebook.com/kivimandarina.mangoananas</a>
+
 
 Open for any suggestions and ready to learn and update current progress.
 
