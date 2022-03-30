@@ -14,7 +14,7 @@ My goal is to learn programming and upgrade personal skills.
 
 We can discuss everything from cs to sports to even politics :grin: but only while cooking and drinking good beer. :wink:
 
-Feel free to contact me
+Feel free to contact me via email: kukolj.dragan@gmail.com
 
 
 Open for any suggestions and ready to learn and update current progress.
