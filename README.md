@@ -4,18 +4,13 @@
 
 My goal is to learn programming and upgrade personal skills.
 
-:notebook: Currently learning HTML and CSS.
+:notebook: Currently focused on learning Responsive Web Design.
 
-:computer: Self-taught via freecodecamp.org and Odin Project.
+:computer: Self-taught via Odin Project.
 
 :house_with_garden: My location is in Osijek, Croatia - feel free to visit and enjoy good food.
 
-:bicyclist: :mountain: Bike and hike person - any free time while not working or learning you can find me cycling or in forrest enjoying a looong walk or traveling to new places :earth_africa:
-
-We can discuss everything from cs to sports to even politics :grin: but only while cooking and drinking good beer. :wink:
-
-Feel free to contact me via email: kukolj.dragan@gmail.com
-
+:bicyclist: :mountain: Bike and hike person - any free time while not working or learning you can find me cycling or in forrest enjoying a long walk or traveling to new places :earth_africa:
 
 Open for any suggestions and ready to learn and update current progress.
 
