@@ -4,9 +4,9 @@
 
 My goal is to learn programming and upgrade personal skills.
 
-:notebook: Currently focused on learning Responsive Web Design.
+:notebook: Currently focused on basics of front-end development.
 
-:computer: Self-taught via Odin Project.
+:computer: Self-taught via Odin Project and also attending Algebra course.
 
 :house_with_garden: My location is in Osijek, Croatia - feel free to visit and enjoy good food.
 
