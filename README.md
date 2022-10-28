@@ -1,16 +1,11 @@
 ### Hi there :wave:
 
-:man: My name is Dragan and I want to share my programming journey with you...
+:man: My name is Dragan.
 
-:notebook: Currently focused on basics of front-end development.
+:notebook: Currently focused on front-end development.
 
-:computer: Self-taught via Odin Project and also attending Algebra course.
+:bicyclist: :mountain: :astronaut: Bike and hike person. Astronomy enthusiast.
 
-:bicyclist: :mountain: Bike and hike person.
-
-Open for any suggestions and ready to learn and update current progress.
-
-Have a nice day! :sunglasses:
 
 
 
