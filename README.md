@@ -4,7 +4,7 @@
 
 :notebook: Currently focused on front-end development.
 
-:bicyclist: :mountain: :astronaut: Bike and hike person. Astronomy enthusiast.
+:bicyclist: :mountain: 👨‍🚀: Bike and hike person. Astronomy enthusiast.
 
 
 
