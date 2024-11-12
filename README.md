@@ -2,8 +2,6 @@
 
 :man: My name is Dragan.
 
-:notebook: Currently focused on front-end development.
-
 :bicyclist: :mountain: 👨‍🚀: Bike and hike person. Astronomy enthusiast.
 
 
